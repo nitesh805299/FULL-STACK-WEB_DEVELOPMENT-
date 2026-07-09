@@ -1,0 +1,21 @@
+what is node js ?
+Noded js is a enviornment which helps us to run the javascript in our browser.
+
+it run on crome V8 engine.
+
+what is EVENT LOOP  / EVENT_DRIVEN ARCHITURE
+--> call stack :js code (console.log)
+--> web API's (node/Epress)
+--> Micro Task: promise,then & catch , async & await 
+--> macro task : timers(setImmediate,setInterval,setTimerout)
+
+how does thw node works?
+step 1: npm init -y :folder initialization
+what is module  ?
+
+requre VS import 
+common js: require 
+import : module
+
+filesystem
+: read write delete apend in a particular file
